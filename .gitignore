@@ -1,0 +1,5 @@
+SignalRChat/obj/
+SignalRChat/bin/
+*.v2
+*.suo
+.vs/
